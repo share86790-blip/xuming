@@ -1,0 +1,10 @@
+{
+  "locked_parent_sha256": "65cd85b3a1cf15c9068ca5bd0cb3cb124d4617a1c1c8793137538fb5b9faecc8",
+  "m1_source_csv_sha256": "482cdaa0f1d21f20f59356d75f2b4a6d222d994d0cfaaa2db18ef9800a3bae80",
+  "nature_skills_repo": "Yuan1z0825/nature-skills",
+  "nature_skills_commit": "44defbcce0b8534f9a0a4734f56c40e4f703bbf4",
+  "nature_figure_version": "2.5.0",
+  "backend": "r",
+  "formal_pool": ["R04", "R18"],
+  "render_status": "PENDING_BINDER_R_RUNTIME"
+}
