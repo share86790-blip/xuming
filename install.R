@@ -1,0 +1,8 @@
+install.packages("readr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("patchwork")
+install.packages("metafor")
+install.packages("digest")
+install.packages("svglite")
+install.packages("ragg")
