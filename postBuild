@@ -1,0 +1,9 @@
+#!/bin/bash
+set -euo pipefail
+mkdir -p vendor
+if [ ! -d vendor/nature-skills/.git ]; then
+  git clone https://github.com/Yuan1z0825/nature-skills.git vendor/nature-skills
+fi
+git -C vendor/nature-skills fetch --depth 1 origin 44defbcce0b8534f9a0a4734f56c40e4f703bbf4
+git -C vendor/nature-skills checkout 44defbcce0b8534f9a0a4734f56c40e4f703bbf4
+python3 vendor/nature-skills/skills/nature-figure/scripts/nature_figure_backend.py set r
