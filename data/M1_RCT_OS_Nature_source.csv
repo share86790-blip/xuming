@@ -1,0 +1,3 @@
+Result_ID,Study,Year,Design,Domain,Backbone,Comparison,Outcome,Analysis_Set,Nature_Role,HR,CI_Lower,CI_Upper,logHR,SE_logHR,N_Intervention,N_Comparator,Final_RoB,Source_Anchor,DOI_URL,Nature_Plot_Status
+R04,Gu 2020,2020,RCT,A,TACE,TACE+apatinib vs TACE,OS,Primary,MAIN_POOLED_M1,0.36,0.113,1.15,-1.0216512475319814,0.5918697455726927,40,40,Some concerns,p4 Results；Figure 2,https://doi.org/10.21037/atm-20-7244,READY_FOR_NATURE_PLOT
+R18,Fan/TREAT 2024,2024,RCT,A,TACE,sorafenib+on-demand TACE vs TACE,OS,Primary,MAIN_POOLED_M1,0.55,0.39,0.78,-0.5978370007556204,0.17682326034692486,81,81,Low,Main p5 Figure 2A；Protocol statistical plan,https://doi.org/10.1001/jamaoncol.2024.1831,READY_FOR_NATURE_PLOT
